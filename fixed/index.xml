@@ -3,11 +3,7 @@
   <channel>
       <title>Fixeds on  </title>
       <generator uri="https://hugo.spf13.com">Hugo</generator>
-<<<<<<< HEAD
     <link>http://ezobn.github.io/blog/fixed/index.xml/</link>
-=======
-    <link>http://localhost/fixed/index.xml/</link>
->>>>>>> a19f66781079ebb59c79efeaee1bd4c21a5584c8
     
     
     
@@ -15,34 +11,20 @@
     
     <item>
       <title>404</title>
-<<<<<<< HEAD
       <link>http://ezobn.github.io/blog/404/</link>
       <pubDate>Tue, 01 Jan 2008 00:00:00 UTC</pubDate>
       
       <guid>http://ezobn.github.io/blog/404/</guid>
-=======
-      <link>http://localhost/404/</link>
-      <pubDate>Tue, 01 Jan 2008 00:00:00 UTC</pubDate>
-      
-      <guid>http://localhost/404/</guid>
->>>>>>> a19f66781079ebb59c79efeaee1bd4c21a5584c8
       <description>&lt;p&gt;Sorry, we&amp;rsquo;ve misplaced that URL or it&amp;rsquo;s pointing to something that doesn&amp;rsquo;t exist. &lt;a href=&#34;/&#34;&gt;Head back home&lt;/a&gt; to try finding it again.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>About</title>
-<<<<<<< HEAD
       <link>http://ezobn.github.io/blog/About/</link>
       <pubDate>Tue, 01 Jan 2008 00:00:00 UTC</pubDate>
       
       <guid>http://ezobn.github.io/blog/About/</guid>
-=======
-      <link>http://localhost/About/</link>
-      <pubDate>Tue, 01 Jan 2008 00:00:00 UTC</pubDate>
-      
-      <guid>http://localhost/About/</guid>
->>>>>>> a19f66781079ebb59c79efeaee1bd4c21a5584c8
       <description>
 
 &lt;p class=&#34;message&#34;&gt;
@@ -79,17 +61,10 @@
     
     <item>
       <title>Another Fixed Page</title>
-<<<<<<< HEAD
       <link>http://ezobn.github.io/blog/Another-Fixed-Page/</link>
       <pubDate>Tue, 01 Jan 2008 00:00:00 UTC</pubDate>
       
       <guid>http://ezobn.github.io/blog/Another-Fixed-Page/</guid>
-=======
-      <link>http://localhost/Another-Fixed-Page/</link>
-      <pubDate>Tue, 01 Jan 2008 00:00:00 UTC</pubDate>
-      
-      <guid>http://localhost/Another-Fixed-Page/</guid>
->>>>>>> a19f66781079ebb59c79efeaee1bd4c21a5584c8
       <description>&lt;p&gt;This is just another example of a fixed page, to demonstrate ordered elements in the sidebar.&lt;/p&gt;
 </description>
     </item>
