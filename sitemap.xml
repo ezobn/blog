@@ -2,38 +2,66 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+<<<<<<< HEAD
     <loc>http://ezobn.github.io/blog/</loc>
+=======
+    <loc>http://localhost/</loc>
+>>>>>>> a19f66781079ebb59c79efeaee1bd4c21a5584c8
     <lastmod>2014-01-02T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
+<<<<<<< HEAD
     <loc>http://ezobn.github.io/blog/2014/01/02/Introducing-Lanyon/</loc>
+=======
+    <loc>http://localhost/2014/01/02/Introducing-Lanyon/</loc>
+>>>>>>> a19f66781079ebb59c79efeaee1bd4c21a5584c8
     <lastmod>2014-01-02T00:00:00+00:00</lastmod>
   </url>
   
   <url>
+<<<<<<< HEAD
     <loc>http://ezobn.github.io/blog/2014/01/01/Example-content/</loc>
+=======
+    <loc>http://localhost/2014/01/01/Example-content/</loc>
+>>>>>>> a19f66781079ebb59c79efeaee1bd4c21a5584c8
     <lastmod>2014-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
+<<<<<<< HEAD
     <loc>http://ezobn.github.io/blog/2013/12/31/Whats-Jekyll/</loc>
+=======
+    <loc>http://localhost/2013/12/31/Whats-Jekyll/</loc>
+>>>>>>> a19f66781079ebb59c79efeaee1bd4c21a5584c8
     <lastmod>2013-12-31T00:00:00+00:00</lastmod>
   </url>
   
   <url>
+<<<<<<< HEAD
     <loc>http://ezobn.github.io/blog/404/</loc>
+=======
+    <loc>http://localhost/404/</loc>
+>>>>>>> a19f66781079ebb59c79efeaee1bd4c21a5584c8
     <lastmod>2008-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
+<<<<<<< HEAD
     <loc>http://ezobn.github.io/blog/About/</loc>
+=======
+    <loc>http://localhost/About/</loc>
+>>>>>>> a19f66781079ebb59c79efeaee1bd4c21a5584c8
     <lastmod>2008-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
+<<<<<<< HEAD
     <loc>http://ezobn.github.io/blog/Another-Fixed-Page/</loc>
+=======
+    <loc>http://localhost/Another-Fixed-Page/</loc>
+>>>>>>> a19f66781079ebb59c79efeaee1bd4c21a5584c8
     <lastmod>2008-01-01T00:00:00+00:00</lastmod>
   </url>
   
